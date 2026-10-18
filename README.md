@@ -1,17 +1,7 @@
 # Juae Kim · Portfolio
 
 [Dimension by HTML5 UP](https://html5up.net/dimension) 디자인을 기반으로,
-**모든 메뉴를 하나의 페이지에 담아 스크롤로 이동**하도록 변형한 개발자 포트폴리오입니다.
-
-## 원본과의 차이
-
-원본 Dimension은 메뉴를 누르면 패널(모달)이 떠서 한 번에 하나의 섹션만 보여줍니다.
-이 버전은 다음과 같이 바꿨습니다.
-
-- 모든 섹션(About / Skills / Experience / Projects / Contact)을 한 페이지에 세로로 배치
-- 메뉴 클릭 시 같은 페이지의 해당 섹션 위치로 부드럽게 스크롤 (`scroll-behavior: smooth`)
-- Hero를 지나 스크롤하면 상단에 sticky 내비게이션 바가 나타남
-- 현재 보고 있는 섹션의 메뉴가 자동으로 강조됨 (scrollspy)
+**모든 메뉴를 하나의 페이지에 담아 스크롤로 이동**하도록 변형한 개발자 포트폴리오입니다 (sticky nav · scrollspy 포함).
 
 ## 구조
 
